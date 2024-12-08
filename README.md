@@ -16,7 +16,7 @@ The project is built using SwiftUI and employs modern architectural patterns and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ShopApp.git
+   git clone https://github.com/ntobekosikithi/ShopApp.git
    cd ShopApp
 
 2. Install dependencies using CocoaPods:
