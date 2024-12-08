@@ -44,13 +44,13 @@ The project is built using SwiftUI and employs modern architectural patterns and
 - **CocoaPods**
 Why CocoaPods? CocoaPods is a robust dependency manager for Swift and Objective-C projects, ensuring easy integration and management of third-party libraries.
 
-# Alamofire (5.10.2)**
+###  Alamofire (5.10.2)**
 
 - ****Purpose***: Simplifies HTTP networking.
 - ****Why?***: Provides an elegant, chainable API for making API calls and handling responses.
 - ****Usage****: Used for API requests in the app's service layer.
 
- # Swinject (2.9.1)**
+ ### Swinject (2.9.1)**
 
 - ****Purpose****: Enables dependency injection for improved modularity and testability.
 - ****Why?****: Reduces coupling and facilitates mocking dependencies for unit testing.
