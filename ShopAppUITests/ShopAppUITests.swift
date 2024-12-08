@@ -2,7 +2,7 @@
 //  ShopAppUITests.swift
 //  ShopAppUITests
 //
-//  Created by ns90840 on 2024/12/02.
+//  Created by Ntobeko Sikithi on 2024/12/02.
 //
 
 import XCTest

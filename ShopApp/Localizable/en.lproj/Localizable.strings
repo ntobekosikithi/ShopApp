@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  ShopApp
+
+  Created by Ntobeko Sikithi on 2024/12/07.
+  
+*/
+
+"service.error.fetching.products.title" = "Error loading products";
+"service.error.fetching.product.desc" = "Something went wrong while fetching the products.\n Please try again later.";
+
+"success.product.added.to.cart.message" = "Product successfully added to the cart";
+"success.product.removed.from.cart.message" = "Product successfully removed from cart";
+
+"loading.indicator.title" = "Loading...";
+
+"in.stock.label.title" = "In Stock";
+"out.stock.label.title" = "Out of Stock";
+
+"add.to.cart.button.title" = "Add to Cart";
+"remove.from.cart.button.title" = "Remove from Cart";
+"buy.now.button.title" = "Buy Now";
+
+"product.list.screen.title" = "Products";
+"product.details.screen.title" = "Product Details";
+"cart.screen.title" = "Cart";
+
+"product.details.desc.title" = "Description";
